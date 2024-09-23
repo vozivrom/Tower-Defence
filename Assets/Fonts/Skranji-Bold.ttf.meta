@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: eff8596ef758fd047a62804f222d5bc0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Skranji
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cfe8ae62adf2839428aa29c219860ab4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
